@@ -9,7 +9,9 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@gsap/react": "^2.1.2",
     "@strapi/blocks-react-renderer": "^1.0.2",
+    "gsap": "^3.12.7",
     "husky": "^9.1.7",
     "next": "15.2.3",
     "react": "^19.0.0",
